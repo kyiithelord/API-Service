@@ -1,0 +1,8 @@
+[assembly: AssemblyTitle("BookServiceAPI")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("BookServiceAPI")]
+[assembly: AssemblyCopyright("")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
