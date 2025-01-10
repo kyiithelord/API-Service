@@ -5,3 +5,11 @@
 /home/kyiithelord/Desktop/bapi/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
 /home/kyiithelord/Desktop/bapi/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
 /home/kyiithelord/Desktop/bapi/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/home/kyiithelord/Desktop/WebApplication1/obj/Debug/net8.0/WebApplication1.sourcelink.json

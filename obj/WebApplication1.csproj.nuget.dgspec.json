@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kyiithelord/Desktop/bapi/WebApplication1/WebApplication1.csproj": {}
+    "/home/kyiithelord/Desktop/WebApplication1/WebApplication1.csproj": {}
   },
   "projects": {
-    "/home/kyiithelord/Desktop/bapi/WebApplication1/WebApplication1.csproj": {
+    "/home/kyiithelord/Desktop/WebApplication1/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kyiithelord/Desktop/bapi/WebApplication1/WebApplication1.csproj",
+        "projectUniqueName": "/home/kyiithelord/Desktop/WebApplication1/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "/home/kyiithelord/Desktop/bapi/WebApplication1/WebApplication1.csproj",
+        "projectPath": "/home/kyiithelord/Desktop/WebApplication1/WebApplication1.csproj",
         "packagesPath": "/home/kyiithelord/.nuget/packages/",
-        "outputPath": "/home/kyiithelord/Desktop/bapi/WebApplication1/obj/",
+        "outputPath": "/home/kyiithelord/Desktop/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kyiithelord/.nuget/NuGet/NuGet.Config"
